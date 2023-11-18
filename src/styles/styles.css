@@ -13,7 +13,6 @@ body p {
 
 .nft-card {
   margin-top: auto;
-  margin-bottom: auto;
   background-color: hsl(216, 50%, 16%);
   border-width: 1rem;
   border-radius: 1.5rem;
@@ -82,6 +81,7 @@ body p {
 }
 .nft-card .nft-info .nft-currency {
   color: hsl(178, 100%, 50%);
+  font-weight: 600;
 }
 .nft-card .nft-info .nft-time {
   margin-left: auto;
@@ -94,6 +94,8 @@ body p {
 .nft-card .nft-avatar img {
   border: 0.05rem solid white;
   border-radius: 100%;
+  width: 2.5rem;
+  height: 2.5rem;
 }
 .nft-card .nft-avatar p {
   margin-left: 1rem;

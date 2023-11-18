@@ -110,6 +110,7 @@ body {
 
     .nft-currency {
       color: $primary-cyan;
+      font-weight: 600;
     }
 
     .nft-time {
@@ -125,6 +126,8 @@ body {
     img {
       border: 0.05rem solid white;
       border-radius: 100%;
+      width: 2.5rem;
+      height: 2.5rem;
     }
 
     p {
