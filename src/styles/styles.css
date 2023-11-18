@@ -13,6 +13,7 @@ body p {
 
 .nft-card {
   margin-top: auto;
+  margin-bottom: auto;
   background-color: hsl(216, 50%, 16%);
   border-width: 1rem;
   border-radius: 1.5rem;
